@@ -1,5 +1,16 @@
 {
-  "orgName": "pchittum company",
+  "orgName": "pchittum Agentforce demo",
   "edition": "Developer",
-  "features": []
+  "features": ["EnableSetPasswordInApi","Einstein1AIPlatform"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled" : true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2" : true
+    },
+    "einstenGptSettings": {
+      "enableEinsteinGptPlatform" : true
+    }
+  }
 }
