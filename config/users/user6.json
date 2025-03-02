@@ -1,0 +1,14 @@
+{
+    "Username": "user6@tdx25.demo",
+    "LastName": "Pope",
+    "FirstName": "Calanthe",
+    "Email": "peter+tdx25@westview1.co",
+    "Alias": "user1",
+    "TimeZoneSidKey": "America/Denver",
+    "LocaleSidKey": "en_US",
+    "EmailEncodingKey": "UTF-8",
+    "LanguageLocaleKey": "en_US",
+    "profileName": "Standard User",
+    "permsets": ["Sales Cloud User"],
+    "generatePassword": false
+}
